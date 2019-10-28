@@ -1,0 +1,6 @@
+C:\Users\Hemat Shah\Engineering45\week2\Day1\HomeworkInHeritance\HomeworkInHeritance\obj\Debug\HomeworkInHeritance.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week2\Day1\HomeworkInHeritance\HomeworkInHeritance\bin\Debug\HomeworkInHeritance.exe.config
+C:\Users\Hemat Shah\Engineering45\week2\Day1\HomeworkInHeritance\HomeworkInHeritance\bin\Debug\HomeworkInHeritance.exe
+C:\Users\Hemat Shah\Engineering45\week2\Day1\HomeworkInHeritance\HomeworkInHeritance\bin\Debug\HomeworkInHeritance.pdb
+C:\Users\Hemat Shah\Engineering45\week2\Day1\HomeworkInHeritance\HomeworkInHeritance\obj\Debug\HomeworkInHeritance.exe
+C:\Users\Hemat Shah\Engineering45\week2\Day1\HomeworkInHeritance\HomeworkInHeritance\obj\Debug\HomeworkInHeritance.pdb
